@@ -1,4 +1,3 @@
-py
 import requests
 from curl_cffi import requests as cur_requests
 import time
